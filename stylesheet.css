@@ -1,0 +1,50 @@
+.menu2 {
+  background-color: #5eaaa8b4 ;}
+
+.menu {
+    background-color: #5eaaa8 ;
+  background-size:  cover;
+    font-size:20px;
+    text-align: center;
+    text-underline-position: none;
+ 
+  }
+  .menu ul{
+    list-style: none;  font-family: cursive;  }
+ 
+ 
+ .menu ul li {
+    width: 200px;
+   margin: 5px;
+   padding: 15px;
+ }
+ 
+ .menu ul li:hover
+  {border-radius: 5px;
+   background: #e11d74;
+ 
+ }
+ 
+ 
+ .navbar{position:  ;}
+ .table tr { text-decoration: none;
+ 
+ }
+ ul{ display: inline-flex;;}
+
+#menu{width: vh;}
+
+
+#navbar{background-color: rgb(6, 15, 32); font-size: 20px; }
+
+
+.middle { padding-left: 20%;
+  font-family:'Times New Roman', Times, serif; font-size: 10px;}
+
+  .middle{position: relative;}
+    
+.button{ position: relative; padding-left: 40%;}
+
+
+
+  

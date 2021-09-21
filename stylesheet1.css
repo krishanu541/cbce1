@@ -1,0 +1,26 @@
+.top{ padding-left: 25%;
+padding-top: 2%; font-family: 'Times New Roman', Times, serif; }
+
+.Col { padding-left: 55%;font-family: 'Times New Roman', Times, serif; }
+
+
+.form { font-family: 'Times New Roman', Times, serif;}
+
+.rform {   margin: auto;
+    width: 50%;}
+
+.container {margin: auto;}
+
+.reg{margin: auto;
+    font-family: 'Times New Roman', Times, serif;padding-left: 16%;
+}
+
+body {
+    background-image: url("7.jpeg");
+    background-color: #cccccc;
+   }
+
+   #copyright 
+
+   #copyright {background-color: rgb(34, 27, 53); width: 100%; color: beige;
+text-align: right; }
